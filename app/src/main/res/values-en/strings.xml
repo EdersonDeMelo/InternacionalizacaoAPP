@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DIO Internationalization Challenge</string>
+    <string name="frase_principal">Making complicated things simple is easy. Making the complicated simple, this is
+        creativity.
+    </string>
+    <string name="app_com_internacionalizacao">APP with internationalization</string>
+</resources>

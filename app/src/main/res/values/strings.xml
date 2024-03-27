@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desafio Internacionalizacao DIO</string>
+    <string name="frase_principal">"Tornar simples o complicado é fácil. Tornar o complicado
+        simples, isto é criatividade. "
+    </string>
+    <string name="app_com_internacionalizacao">APP com internacionalização</string>
+</resources>
